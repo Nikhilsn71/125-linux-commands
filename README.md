@@ -106,9 +106,9 @@
     </tr>
    <tr>
         <td>17.</td>
-        <td>clear</td>
-        <td>clearing previous tasks</td>
-     <td>clear</td>
+        <td>rm -r [dirname]</td>
+        <td>removes entire directory</td>
+     <td>sudo rm -rf [dirname]</td>
     </tr>
    <tr>
         <td>18.</td>
@@ -538,9 +538,9 @@
     </tr>
       <tr>
         <td>89.</td>
-        <td>rm rf*</td>
-        <td>to delete all files in directory</td>
-     <td>rm rf*</td>
+        <td>hping3</td>
+        <td>test firewall rules and port scanning</td>
+     <td>hping3 [ip]</td>
     </tr>
       <tr>
         <td>90.</td>
@@ -634,9 +634,9 @@
     </tr>
       <tr>
         <td>105.</td>
-        <td>fstab</td>
-        <td>static information about the file system</td>
-     <td>fsdisk</td>
+        <td>clear</td>
+        <td>clearing previous tasks</td>
+     <td>clear</td>
     </tr>
       <tr>
         <td>106.</td>
@@ -670,15 +670,15 @@
     </tr>
       <tr>
         <td>111.</td>
-        <td>getenforce</td>
-        <td>get current mode of </td>
-     <td>getenforce</td>
+        <td>arp -a</td>
+        <td>display the hostname os sys</td>
+     <td>arp -a</td>
     </tr>
       <tr>
         <td>112.</td>
-        <td>ksvalidator</td>
-        <td>verify the sysntax of a kick start file</td>
-     <td>ksvalidator</td>
+        <td>sleep</td>
+        <td>let the terminal wait by the specified amount of time</td>
+     <td>sleep 60</td>
     </tr>
       <tr>
         <td>113.</td>
@@ -694,9 +694,9 @@
     </tr>
       <tr>
         <td>115.</td>
-        <td>mount</td>
-        <td>mount a file system</td>
-     <td>mount</td>
+        <td>hostnamectl</td>
+        <td>get the system information ,os,kernal.</td>
+     <td>hostnamectl</td>
     </tr>
       <tr>
         <td>116.</td>
@@ -756,6 +756,6 @@
         <td>125.</td>
         <td>shutdown</td>
         <td>shutdown linux machine</td>
-     <td>shutdown</td>
+     <td>shutdown -h now</td>
     </tr>
      </table>
