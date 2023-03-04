@@ -689,7 +689,7 @@
       <tr>
         <td>114.</td>
         <td>lvm2</td>
-        <td>lvm provides the command-line for lvm2</td>
+        <td>It is a command-line tool used to interact with LVM</td>
      <td>lvm2</td>
     </tr>
       <tr>
