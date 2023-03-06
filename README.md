@@ -731,7 +731,7 @@
       <tr>
         <td>121.</td>
         <td>cmatrix</td>
-        <td>to get matrix effect in terminal</td>
+        <td>get matrix effect in terminal</td>
      <td>cmatrix</td>
     </tr>
       <tr>
